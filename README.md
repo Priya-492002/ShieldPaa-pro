@@ -7,4 +7,4 @@ A modern Password Management Suite built with Python and CustomTkinter.
 * **strength_tester_basic.py**: Original strength tester prototype.
 ## 🛠️ How to Use
 1. Install the requirements: `pip install -r requirements.txt`
-2. Run the main application: `python pro3.py`
+2. Run the main application: `python shieldpass_pro_final.py`
